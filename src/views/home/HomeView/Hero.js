@@ -69,7 +69,7 @@ const Hero = ({ className, ...rest }) => {
                 KOM I GANG
               </Typography>
               <Typography variant="body1" color="textSecondary">
-                THE VALUES LOADED FROM THE DABASE SHOULD SHOW HERE, in a render of new colors used
+                THE APP SHOULD RENDER WITH NEW COLORS ON ALL PAGES BASED ON THE COLORS THAT IS LOADED FROM THE API CALL FROM THE DATABASE
               </Typography>
 
               <Box mt={3}>
